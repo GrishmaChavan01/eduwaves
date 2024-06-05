@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/eduwaves/static/css/main.1a0668f0.css",
+    "main.js": "/eduwaves/static/js/main.655c2a74.js",
+    "static/js/453.ce5c68fb.chunk.js": "/eduwaves/static/js/453.ce5c68fb.chunk.js",
+    "static/media/hero.png": "/eduwaves/static/media/hero.be354c47b1b95853c62c.png",
+    "static/media/about-banner.jpg": "/eduwaves/static/media/about-banner.b067014bb3db3a660123.jpg",
+    "static/media/about.jpg": "/eduwaves/static/media/about.00f6c4b34819688791fd.jpg",
+    "static/media/logo.png": "/eduwaves/static/media/logo.66a311b30a6756248d37.png",
+    "static/media/hero-shape-purple.png": "/eduwaves/static/media/hero-shape-purple.77f84f1d8433499cf9e3.png",
+    "index.html": "/eduwaves/index.html",
+    "main.1a0668f0.css.map": "/eduwaves/static/css/main.1a0668f0.css.map",
+    "main.655c2a74.js.map": "/eduwaves/static/js/main.655c2a74.js.map",
+    "453.ce5c68fb.chunk.js.map": "/eduwaves/static/js/453.ce5c68fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a0668f0.css",
+    "static/js/main.655c2a74.js"
+  ]
+}
